@@ -18,14 +18,14 @@ from telegram.ext import (
 # ═══════════════════════════════════════════════════
 #                    ⚙️  КОНФИГ
 # ═══════════════════════════════════════════════════
-BOT_TOKEN        = "YOUR_BOT_TOKEN_HERE"       # @BotFather
-ADMIN_ID         = 123456789                   # Твой Telegram ID
-LIVE_CHANNEL_ID  = -100123456789               # ID лайв-канала (или "" чтобы отключить)
+BOT_TOKEN        = "8603411643:AAEFOuhoBvnmh90h4MK9PsqQnot5uQGkmTY"       # @BotFather
+ADMIN_ID         = 7564112818                   # Твой Telegram ID
+LIVE_CHANNEL_ID  = -1003722065120               # ID лайв-канала (или "" чтобы отключить)
 WIN_RATE         = 0.30
 REG_BONUS        = 50
 STARS_TO_TOKENS  = 2                           # 1 ⭐ = 2 🪙
 USD_TO_TOKENS    = 200                         # 1 USD = 200 🪙
-USD_WALLET       = "YOUR_WALLET_HERE"
+USD_WALLET       = "UQBufQWcrufQW_S0ZqhxYEIO6g1R1YoaE3l5aNd9rM3zqTAa"
 MIN_BET          = 1
 MAX_BET          = 100000
 MIN_WITHDRAW     = 50
